@@ -1,4 +1,4 @@
-# data-science
+# Data Science
 
 ## Pandas
 
